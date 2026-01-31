@@ -45,7 +45,3 @@
 
 🔗 **LinkedIn**: [linkedin.com/in/vartikasharma5](https://www.linkedin.com/in/vartikasharma5/)  
 🌐 **Portfolio**: [vartikasharma-portfolio.netlify.app](https://vartikasharma-portfolio.netlify.app/)
-
----
-
-⭐ Feel free to explore my repositories and connect with me!
