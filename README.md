@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Single+Ink&size=26&duration=5002&pause=686&width=435&lines=Hey%2CI'm+Vartika!%F0%9F%99%8B%E2%80%8D%E2%99%80%EF%B8%8F;Welcome+to+my+GitHub+Profile.;I+enjoy+building+things+;with+code+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Always+LEARNING;BUILDING;AND+GROWING." alt="Typing SVG" /></a>
 ---
-
+ 
 ## 👩‍💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
