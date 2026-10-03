@@ -45,18 +45,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<!-- force-refresh -->
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vartikasharmadev&show_icons=true&theme=tokyonight" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vartikasharmadev&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 ## 🌐 Connect With Me
 
